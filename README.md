@@ -13,6 +13,7 @@ and identifies potentially fraudulent transactions in real time. The project als
 
 ![image alt](https://github.com/Charvi-M-J/Real-Time-Spark-Streaming-Project/blob/e891e17cc191ecca065e928ee05b634f73e3d6dc/screenshots/Screenshot%202026-09-11%20114454.png)
 
+![image alt](https://github.com/Charvi-M-J/Real-Time-Spark-Streaming-Project/blob/992cd6a78ec3f9c373d7ca32e78590002a6181f9/screenshots/Screenshot%202026-09-08%20105923.png)
 
 
 🛠️ Technologies used:
